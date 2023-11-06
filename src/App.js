@@ -69,7 +69,8 @@ function App() {
       {scoreshow ? (
       <div>
           <p id="score">Your score is : {score}/4</p>
-
+          <h1>Thank you so much for playing</h1>
+          <h3>For more project click here :</h3>
           {/* Correct answers list */}
           {/* <div>
               <p>correct answers :</p>
