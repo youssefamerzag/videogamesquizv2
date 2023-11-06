@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/videogamesquizv2/static/css/main.445c7a69.css",
-    "main.js": "/videogamesquizv2/static/js/main.838d0150.js",
+    "main.js": "/videogamesquizv2/static/js/main.af3e6747.js",
     "index.html": "/videogamesquizv2/index.html",
     "main.445c7a69.css.map": "/videogamesquizv2/static/css/main.445c7a69.css.map",
-    "main.838d0150.js.map": "/videogamesquizv2/static/js/main.838d0150.js.map"
+    "main.af3e6747.js.map": "/videogamesquizv2/static/js/main.af3e6747.js.map"
   },
   "entrypoints": [
     "static/css/main.445c7a69.css",
-    "static/js/main.838d0150.js"
+    "static/js/main.af3e6747.js"
   ]
 }
