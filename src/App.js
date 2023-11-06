@@ -60,6 +60,9 @@ function App() {
 
     if (iscorrect === true) {
       setscore(score + 1)
+      alert('Your answer is CORRECT!!')
+    }else {
+      alert('Your answer is NOT CORRECT')
     }
 }
 
